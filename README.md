@@ -52,8 +52,6 @@
 ✔️ GDPR, Data Privacy & Integrity (DPI), RBAC  
 
 ## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/miguel-silva-ba8b10195)  
 - 📧 miguelmarcelino1111@gmail.com  
 - 😄 Pronouns: He/Him  
 
