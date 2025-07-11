@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Miguel322024  
-- 👀 I’m interested in automation, innovation, and solving complex problems through RPA and process improvement.  
-- 🌱 I’m currently learning advanced concepts in UiPath, Power Automate, and SQL, while also improving my English (B1 level).  
-- 💞️ I’m looking to collaborate on automation projects, process optimization, and innovative RPA solutions.  
+- 👨‍💻 I have hands-on experience building **14+ RPA bots** using **UiPath** and **Python**, automating tasks in finance, logistics, and public service platforms like DETRAN and IPVA.  
+- 🚀 I’m passionate about **automation, process improvement, and innovation**, always aiming to deliver efficient, scalable solutions.  
+- 🔧 My current focus is on mastering **Power Automate**, **SQL**, and enhancing my **English (B1)** to collaborate in global projects.  
+- 🤝 I’m open to collaborate on real-world automation projects, especially involving **workflow optimization, scraping, and integration of APIs**.  
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/miguel-silva-ba8b10195)  
   - Email: miguelmarcelino1111@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’ve built over 14 RPA bots using UiPath and Python, and I’m passionate about making technology accessible to everyone!  
+- ⚡ Fun fact: I enjoy solving “impossible” problems with creative automation, and I believe RPA should be simple, powerful, and accessible to all.
+
